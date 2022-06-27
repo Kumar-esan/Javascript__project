@@ -48,7 +48,7 @@ function myfunction() {
             title: 'Your information store. please check',
             showCancelButton: true,
             showconfirmButton: true,
-            confirmButtonText: '<a  href="file:///F:/design_page/Final_project/html/datapage.html">Ok</a>',
+            confirmButtonText: '<a  href="file:///F:/design_page/javascript_project/Datapage.html">Ok</a>',
           
           cancelButtonColor: '#d33'
 

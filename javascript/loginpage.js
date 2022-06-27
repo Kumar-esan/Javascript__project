@@ -38,7 +38,7 @@
                   if(akp[i].username == val1.value && akp[i].password == val2.value)
                   {
                        
-                      location.href = "file:///F:/design_page/Final_project/html/formpage.html";
+                      location.href = "file:///F:/design_page/javascript_project/Formpage.html";
                          //break;
                     } 
                 
